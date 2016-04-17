@@ -1,0 +1,42 @@
+
+
+
+body {
+  background-image: url("https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif");
+}
+#gif{
+  align-self: center;
+}
+#oval {
+    text-align: center;
+    float: right;
+    width: 220px;
+    height: 100px;
+    margin:10px 0 0 -10px;
+    background: red;
+    -moz-border-radius: 100px / 50px;
+    -webkit-border-radius: 100px / 50px;
+    border-radius: 100px / 50px;
+}
+#oval_2 {
+    position: fixed; bottom:0;
+    text-align: center;
+    width: 220px;
+    height: 100px;
+    margin:10px 0 0 -10px;
+    background: blue;
+    -moz-border-radius: 100px / 50px;
+    -webkit-border-radius: 100px / 50px;
+    border-radius: 100px / 50px;
+}
+img {
+  display: block;
+  margin-left: 225px;
+  margin-top: 50px;
+  width: 800px;
+  height: 400px;
+}
+p {
+  font-family: verdana;
+  font-size: 18px;
+}

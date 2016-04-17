@@ -1,0 +1,49 @@
+
+#mainPage {
+  background-image: url("https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif");
+}
+#personal {
+  background-image: url("http://www.walkingstar.com/portfolio/powderhornrealty/assets/Mtns1.jpg");
+}
+#future {
+  background-image: url("https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/101142/wide_article/width668x324/scd26p23-1446940196.png");
+}
+#gif{
+  align-self: center;
+}
+#oval {
+    text-align: center;
+    float: right;
+    width: 220px;
+    height: 100px;
+    margin:10px 0 0 -10px;
+    background: red;
+    -moz-border-radius: 100px / 50px;
+    -webkit-border-radius: 100px / 50px;
+    border-radius: 100px / 50px;
+}
+#oval_2 {
+    position: fixed; bottom:0;
+    text-align: center;
+    width: 220px;
+    height: 100px;
+    margin:10px 0 0 -10px;
+    background: blue;
+    -moz-border-radius: 100px / 50px;
+    -webkit-border-radius: 100px / 50px;
+    border-radius: 100px / 50px;
+}
+img {
+  display: block;
+  margin-left: 225px;
+  margin-top: 50px;
+  width: 800px;
+  height: 400px;
+}
+p {
+  font-family: verdana;
+  font-size: 32px;
+}
+#code {
+  color: red;
+}
